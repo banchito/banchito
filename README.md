@@ -1,4 +1,7 @@
-*Hi! I am Esteban!* Full Stack developer specialized in JavaScript across both front and back end( Node.js, Express, React, Jest, PostgresSQL). 
+# Hi there 👋
+
+## I am Esteban!
+Full Stack developer specialized in JavaScript across both front and back end( Node.js, Express, React, Jest, PostgresSQL). 
 
 ## 📊 My Github Stats
  
