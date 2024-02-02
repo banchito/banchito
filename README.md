@@ -15,6 +15,4 @@ Full Stack developer specialized in JavaScript across both front and back end( N
 
 **Contact:**
 
-Esteban.paris2@gmail.com
-
 https://www.linkedin.com/in/banchito/
